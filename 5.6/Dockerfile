@@ -1,4 +1,4 @@
-FROM php:5-fpm
+FROM php:5.6-fpm
 MAINTAINER Wenbin Wang <wenbin1989@gmail.com>
 
 # install nginx
